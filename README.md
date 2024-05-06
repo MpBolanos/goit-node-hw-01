@@ -1,13 +1,13 @@
 # goit-node-hw-01 - PASO 5
 
-## - Obtenemos un contacto según su id
-https://ibb.co/SfMwfK1
+## - Obtenemos y mostramos la lista completa de contactos en forma de tabla (console.table).
+https://ibb.co/F78BRCN
 
 ## - Obtenemos un contacto según su id
-https://ibb.co/rGhqb8R
+https://ibb.co/h8Xr03V
 
 ## - Añadimos un contacto
-https://ibb.co/HCNR9WD
+https://ibb.co/G2ksrWk
 
 ## - Eliminamos un contacto
-https://ibb.co/Qm0mN7F
+https://ibb.co/ZmKHLZM
